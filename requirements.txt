@@ -1,0 +1,7 @@
+pandas
+openpyxl
+requests
+plotly
+numpy
+python-dotenv
+ollama
